@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "setasign/tfpdf": "^1.25",
-        "setasign/fpdi": "^2.2"
+        "setasign/tfpdf": "1.31",
+        "setasign/fpdi": "^2.3"
     }
 }
